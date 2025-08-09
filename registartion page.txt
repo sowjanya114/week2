@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>welcome to boostagram website</title>
+<title>welcome to instagram website</title>
 <script type='text'/"javascript"></script>
 </head>
 <body>
